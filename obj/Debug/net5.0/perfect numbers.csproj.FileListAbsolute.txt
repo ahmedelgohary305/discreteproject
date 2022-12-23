@@ -1,0 +1,16 @@
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\bin\Debug\net5.0\perfect numbers.exe
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\bin\Debug\net5.0\perfect numbers.deps.json
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\bin\Debug\net5.0\perfect numbers.runtimeconfig.json
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\bin\Debug\net5.0\perfect numbers.runtimeconfig.dev.json
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\bin\Debug\net5.0\perfect numbers.dll
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\bin\Debug\net5.0\perfect numbers.pdb
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.dll
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\refint\perfect numbers.dll
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.pdb
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\perfect numbers.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\سطح المكتب\الكلية\programming\perfect numbers\perfect numbers\obj\Debug\net5.0\ref\perfect numbers.dll

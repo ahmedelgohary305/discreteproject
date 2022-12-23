@@ -1,13 +1,31 @@
 ﻿using System;
-using System.Xml.Linq;
 
-namespace prime_numbers
+namespace perfect_numbers
 {
     internal class Program
     {
+        static bool isperfect(int x)
+        {
+            int sum = 0;
+            for (int i = 1; i < x; i++)
+            {
+                if (x  % i == 0)
+                {
+                    sum = sum + i;
+                }
+            }
+            if (sum == x)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+           
+        }
         static void Main(string[] args)
         {
-            bool isprime=true;
             int n1, n2;
 
             Console.WriteLine("enter n1:");
@@ -15,26 +33,16 @@ namespace prime_numbers
 
             Console.WriteLine("enter n2:");
             n2 = int.Parse(Console.ReadLine());
-            
-            for (int x = n1; x <= n2; x++)
+
+            Console.Write("\n");
+
+            for(int x=n1; x<=n2; x++)
             {
-                for (int y = 2; y <= n2;y++)
+              if(isperfect (x))
                 {
-                    if (x!=y && x % y == 0)
-                    {
-                        isprime = false;
-                        break;
-                    }
-
+                    Console .WriteLine (x); Console.Write("\n");
                 }
-                if(isprime )
-                {
-                    Console.WriteLine(x);
-                }
-                isprime = true;
             }
-           
-
         }
     }
 }
